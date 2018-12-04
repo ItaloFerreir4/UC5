@@ -8,7 +8,6 @@ namespace MarioLikeGame.DAL
 {
     public class GamerDAL
     {
-
         //Declarar o objeto de conexao com o BD
         private SqlConnection conexao;
 
